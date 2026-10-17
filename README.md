@@ -1,3 +1,12 @@
+# PharmEasy.com
+## About the Project
+
+PharmEasy.com is a web-based online medical store designed to simplify the process of browsing and ordering healthcare products. The website provides a user-friendly interface where customers can create an account, explore available products, add items to their shopping cart, and place orders.
+
+The project also includes an administrative panel that helps manage product listings, customer information, order details, and admin accounts. PHP is used to handle the server-side functionality, while MySQL is used to store and manage application data.
+
+Developed as a DBMS Laboratory mini-project, this application demonstrates the practical implementation of database connectivity, CRUD operations, user authentication, and the interaction between frontend and backend components.
+
 # Technologies Used
 
 Frontend: HTML, CSS, JavaScript
@@ -7,15 +16,6 @@ Backend: PHP
 Database: MySQL
 
 Local Development Environment: XAMPP
-
-# PharmEasy.com
-## About the Project
-
-PharmEasy.com is a web-based online medical store designed to simplify the process of browsing and ordering healthcare products. The website provides a user-friendly interface where customers can create an account, explore available products, add items to their shopping cart, and place orders.
-
-The project also includes an administrative panel that helps manage product listings, customer information, order details, and admin accounts. PHP is used to handle the server-side functionality, while MySQL is used to store and manage application data.
-
-Developed as a DBMS Laboratory mini-project, this application demonstrates the practical implementation of database connectivity, CRUD operations, user authentication, and the interaction between frontend and backend components.
 
 ## Main page:
 ![](project-images/main_page.png)
